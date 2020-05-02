@@ -1,0 +1,9 @@
+D:\CProjects\MinecraftSuperflatTool\bin\Debug\MC超平坦小工具.exe.config
+D:\CProjects\MinecraftSuperflatTool\bin\Debug\MC超平坦小工具.exe
+D:\CProjects\MinecraftSuperflatTool\bin\Debug\MC超平坦小工具.pdb
+D:\CProjects\MinecraftSuperflatTool\obj\Debug\MinecraftSuperflatTool.ChangeNum.resources
+D:\CProjects\MinecraftSuperflatTool\obj\Debug\MinecraftSuperflatTool.Form1.resources
+D:\CProjects\MinecraftSuperflatTool\obj\Debug\MinecraftSuperflatTool.Properties.Resources.resources
+D:\CProjects\MinecraftSuperflatTool\obj\Debug\MinecraftSuperflatTool.csproj.GenerateResource.cache
+D:\CProjects\MinecraftSuperflatTool\obj\Debug\MC超平坦小工具.exe
+D:\CProjects\MinecraftSuperflatTool\obj\Debug\MC超平坦小工具.pdb
